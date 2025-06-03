@@ -85,7 +85,7 @@ void _showRoute(LatLng destination) async {
 
 
 /// MY API KEY
-  final directionsService = DirectionsService('AIzaSyAzybIHmrqZyR3qo-M26uBoBJBpjMvVOso');
+  final directionsService = DirectionsService('api_key');
   
   final directions = await directionsService.getDirections(
     _currentPosition!,

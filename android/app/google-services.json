@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1059985057927",
+    "project_id": "ndip-aa43b",
+    "storage_bucket": "ndip-aa43b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059985057927:android:fe96ae3da07c22ee3a7022",
+        "android_client_info": {
+          "package_name": "com.example.diploma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059985057927-scna7j3ahnic2umpgs9ijpknr70isns0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diploma",
+            "certificate_hash": "22672b047b41328dc59bbf73cf2018c2e8664ad8"
+          }
+        },
+        {
+          "client_id": "1059985057927-ug6k9nnsakhgtnj0kb73ov6nbls80jia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tpjehtYp8qNi4LWM0rIyKMhAQchpRdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059985057927-d2n3daad9tonbqej2qh6rqj4cnrlkmnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059985057927-0qk1369lqi77sfoprm9hf3t442sd2u71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diploma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
